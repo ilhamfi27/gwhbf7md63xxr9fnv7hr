@@ -18,6 +18,4 @@ public class CurrentTimestamp {
         Timestamp timestamp = new Timestamp(System.currentTimeMillis());
         return timestamp;
     }
-    public static void main (String args[]){
-    }
 }
