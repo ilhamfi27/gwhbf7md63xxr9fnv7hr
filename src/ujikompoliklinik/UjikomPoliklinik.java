@@ -17,8 +17,8 @@ public class UjikomPoliklinik {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws SQLException {
-        petugas p = new petugas();
-        p.show(true);
+        login l = new login();
+        l.show(true);
     }
     
 }
